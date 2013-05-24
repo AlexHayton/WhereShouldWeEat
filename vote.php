@@ -2,7 +2,8 @@
 	require("head.php");
 ?>
 	
-	<div id="map">
+	<div id="mapMain" style="display:none;">
+		<canvas id="map-canvas" />
 	</div>
 	
 	<div id="voteList">
