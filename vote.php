@@ -7,6 +7,9 @@
 	</div>
 	
 	<div id="voteList">
+		<?php
+			// retrieve the saved list
+		?>
 	</div>
 	
 <?php

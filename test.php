@@ -13,7 +13,7 @@
 		<canvas id="map-canvas" />
 	</div>
 	
-	<div id="establishmentMain">
+	<div id="establishmentMain" style="display:none;">
 		<h2>Nearby Restaurants:</h2>
 		<div id="establishmentList">
 		</div>
